@@ -1,5 +1,5 @@
 Javascript is a synchronous and single-threaded.
-Aysnchronous behaviour is achieved wiht the event loop, callback,
+Aysnchronous behaviour is achieved with the event loop, callback,
 promises and Web APIs.
 
 // npm - global command, comes with node
@@ -16,8 +16,3 @@ promises and Web APIs.
 // npm init - step by step, press enter to skip
 // npm init -y - everything default
 
-const _ = require('lodash')
-const items = [1, [2, [3, [4]]]]
-const newItems = _.flattenDeep(items)
-console.log(newItems)
-console.log("hello people")

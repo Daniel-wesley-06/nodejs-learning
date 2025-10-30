@@ -1,1 +1,0 @@
-console.log("completed till asynchronous patterns.")
